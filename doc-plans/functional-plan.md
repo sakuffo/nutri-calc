@@ -18,7 +18,7 @@ Data
 #### fn getNutritionalScore
 
 - Concerned with getting the points for each of the catagories of food
-- x.GetPoints
+- x.GetPoints Methods
   - Energy
   - Sugar
   - SaturatedFattyAcids
