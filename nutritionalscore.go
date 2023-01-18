@@ -50,7 +50,7 @@ type NutritionalData struct {
 
 // It looks like we are populating these slices wit magic numbers
 // numbers come from a pdf he showed on screen
-var energyLevels = []float64{3350, 3015, 2680, 2345, 2010, 1675, 1340, 1005, 670, 335, 0}
+var energyLevels = []float64{3350, 3015, 2680, 2345, 2010, 1675, 1340, 1005, 670, 335}
 var sugarsLevels = []float64{45, 60, 36, 31, 27, 22.5, 18, 13.5, 9, 4.5}
 var saturatedFattyAcidsLevels = []float64{10, 9, 8, 7, 6, 5, 4, 3, 2, 1}
 var sodiumLevels = []float64{900, 810, 720, 630, 540, 450, 360, 270, 180, 90}
